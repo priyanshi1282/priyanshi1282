@@ -1,3 +1,11 @@
+![githubBanner](https://user-images.githubusercontent.com/88632352/181730743-7928efae-484a-4462-9fd6-050a3b54b2de.png)
+ <h1>
+ <p align="center">
+ what-s-up, I'm Priyanshi Agrawal
+</p>
+</h1>
+
+
 # 💫 About Me:
 🔭 I’m currently working on Web Development.<br>👯 I’m looking to collaborate on Frontend Projects.<br>🌱 I’m currently learning DSA.<br>💬 Ask me about Ideas.<br>⚡ Fun fact Life is like a Dynamic Program, yet people try to make it Static one.
 
