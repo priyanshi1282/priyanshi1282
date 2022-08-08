@@ -1,7 +1,7 @@
 ![githubBanner](https://user-images.githubusercontent.com/88632352/181730743-7928efae-484a-4462-9fd6-050a3b54b2de.png)
  <h1>
  <p align="center">
- what-s-up, I'm Priyanshi Agrawal
+ What-s-up, I'm Priyanshi Agrawal
 </p>
 </h1>
 
