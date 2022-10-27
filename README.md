@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Web Development.<br>👯 I’m looking to collaborate on Frontend Projects.<br>🌱 I’m currently learning DSA.<br>💬 Ask me about Ideas.<br>⚡ Fun fact Life is like a Dynamic Program, yet people try to make it Static one.
+🔭 I’m currently working on Web Development.<br>👯 I’m looking to collaborate on Frontend Projects.<br>🌱 I’m currently learning DSA.<br>💬 Ask me about Ideas.
 
 
 ## 🌐 Socials:
@@ -19,6 +19,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=priyanshi1282&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshi1282&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi1282&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## Holopin Badges
+[![@priyanshi1282's Holopin board](https://holopin.me/priyanshi1282)](https://holopin.io/@priyanshi1282)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=priyanshi1282&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
