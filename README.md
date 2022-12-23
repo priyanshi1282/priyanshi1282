@@ -19,7 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=priyanshi1282&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshi1282&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi1282&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=priyanshi1282&bg_color=1f1f23&color=71bcd6&line=7bceea&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=priyanshi1282&bg_color=201d25&color=ffffff&line=33c3d7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 👩🏻‍💻 Hacktoberfest 2022
 [![@priyanshi1282's Holopin board](https://holopin.me/priyanshi1282)](https://holopin.io/@priyanshi1282)
