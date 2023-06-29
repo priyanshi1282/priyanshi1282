@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Web Development.<br>👯 I’m looking to collaborate on Frontend Projects.<br>🌱 I’m currently learning DSA.<br>💬 Ask me about Ideas.
+🔭 I’m currently working on Full Stack Web Development.<br>👯 I’m looking to collaborate on Full Stack Projects.<br>🌱 I’m currently learning DSA.<br>💬 Ask me about Ideas.
 
 
 ## 🌐 Socials:
