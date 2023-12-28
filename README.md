@@ -2,7 +2,7 @@
 
 ## About Me 🍀
 
-_Frontend Developer | Developer | Mentor_
+_Frontend Developer | Designer | Mentor_
 
 A passionate frontend developer with a keen eye for design. My journey in the world of coding has been driven by a simple yet powerful goal: to create solutions that tackle everyday challenges. I love weaving creativity into code, crafting digital experiences that seamlessly blend aesthetics and functionality. From pixel-perfect designs to intuitive user interfaces, I strive to deliver impactful solutions that resonate with users. Join me on this exciting journey as I continue to bridge the gap between design and technology, one line of code at a time.
 
