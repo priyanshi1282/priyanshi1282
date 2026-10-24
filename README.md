@@ -56,7 +56,7 @@ problems into things that actually work.
 
 | Project | What it is | Tech |
 |---|---|---|
-| [CineMatch](https://github.com/priyanshi1282/CineMatch) | End-to-end LLM assistant with RAG, 3 live API function calls, and code interpreter for personal film discovery | Python, OpenAI API, TMDB, OMDb, Gradio |
+| [CineMatch](https://github.com/priyanshi1282/CineMatch) | End-to-end LLM assistant with RAG, 3 live API function calls, and code interpreter for personal film discovery | Python, OpenAI Responses API, RAG, Vector Store, TMDB API, OMDb API, Open-Meteo API, Gradio |
 | [healthcare-data-warehouse](https://github.com/priyanshi1282/healthcare-data-warehouse) | Cloud data warehouse with ELT pipelines and analytics | GCP, BigQuery, SQL |
 | [car-data-web-scrapper](https://github.com/priyanshi1282/car-data-web-scrapper) | Web scraping and data analysis of real car sales data | Python, Pandas, Jupyter |
 | [JUnit-testing](https://github.com/priyanshi1282/JUnit-testing) | Unit testing suites and test-case design | Java, JUnit |
